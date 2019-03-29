@@ -20,7 +20,7 @@ Request Parameter:
 
 ```json
 {
-    "sign": xxxxx,
+    "sign": "xxxxx",
     "status": 1,
     "purchase_channel": 2,
     "customer_id": 410486,
@@ -138,7 +138,7 @@ Request Parameter:
 ```json
 {
     "order_number": "13662815",
-    "sign": xxxxx
+    "sign": "xxxxx"
 }
 ```
 
