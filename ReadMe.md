@@ -76,7 +76,7 @@ Response(JSON Form):
 ```
 
 ## API : Create Shipment
-Link : "https://fgproduction.paiduayapp.com/order/create"
+Link : "https://fgproduction.paiduayapp.com/courier/create-shipment"
 
 Headers:
 ```json
@@ -122,7 +122,7 @@ Response(JSON Form):
 ```
 
 ## API : Get Tracking Status
-Link : "https://fgproduction.paiduayapp.com/order/create"
+Link : "https://fgproduction.paiduayapp.com/order/status"
 
 Headers: 
 ```json
